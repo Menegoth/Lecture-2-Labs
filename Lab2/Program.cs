@@ -37,6 +37,9 @@ namespace Lab2
             //tell the user how much they can buy
             Console.WriteLine("You can buy {0} candy bars and {1} gumballs.", numOfCandy, numOfGumballs);
 
+            //Pause screen
+            Console.ReadLine();
+
         }
     }
 }
